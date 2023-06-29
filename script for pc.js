@@ -1,3 +1,4 @@
+// The JavaScript code provided in this repository is designed to be supported on PC platforms.
 let highestZ = 1;
 class Paper {
   holdingPaper = false;
