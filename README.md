@@ -14,8 +14,8 @@ Features:
 
 How to Use:
 
-1.) Clone or download the repository.
-2.) Open the index.html file in a web browser.
+1.) Clone or download the repository.                                          
+2.) Open the index.html file in a web browser.                                                
 3.) Explore the sliding papers by clicking or hovering over them to expand or collapse.
 
 Feel free to customize the content, design, and functionality of the sliding papers to meet your specific needs. 
